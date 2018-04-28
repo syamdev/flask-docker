@@ -1,0 +1,9 @@
+flask
+gunicorn
+psycopg2>=2.7,<2.8 --no-binary psycopg2
+flask-sqlalchemy
+alembic
+flask-admin
+flask-wtf
+flask-security
+bcrypt
